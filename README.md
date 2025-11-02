@@ -160,4 +160,4 @@ POST /descarte/relatoio
 - Validação de dados - Schemas MongoDB
 
 ## 👨‍💻 Desenvolvido por
-Vitor Zabeka - Projeto de gestão ambiental (WebMobile (Aula 7) - Universidade Presbiteriana Mackenzie)
+Vitor Zanela - Projeto de gestão ambiental (WebMobile (Aula 7) - Universidade Presbiteriana Mackenzie)
